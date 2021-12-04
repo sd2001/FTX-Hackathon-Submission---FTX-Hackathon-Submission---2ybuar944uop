@@ -103,30 +103,7 @@
 </div>
   <br>
   
-  #### Recommendation System | Backend :
-  
-  ```
-  Python
-  - Scikit Learn
-  - Pandas
-  - NLP
-  - Poetry
-  - FastAPI
-  - Uvicorn
-  
-  Database
-  - MySQL
-  
-  Deployment
-  - AWS
-  ```
-  
-  <div>
-   <h3>API Documentation:</h3>
-
-<!--   <a href="https://leap.swarnabha.tech/docs"> https://leap.swarnabha.tech/docs </a><br> -->
-  </div>
-  
+    
   #### Admin | Frontend
   
   ```

@@ -73,26 +73,6 @@
  $ cd ftx-hackathon
  ```
 
-#### Start the Python ML backend 🚀 :
-
-   ```
-   !! APIs will not work upon run as it requires a .env file to be added with the credentials.
-   
-   pip install poetry
-   cd ML
-   bash install.sh
-   bash run.sh
-   ```
-   
-  **OR**
-   
-   ```
-   pip install poetry
-   cd ML/Recommendation_sys
-   poetry install
-   poetry run uvicorn main:app --reload
-   ```
-  
 
 #### Start the Backend Server 🗃 :
 
@@ -102,12 +82,6 @@
   nodemon app
   ```
 
-#### Start the Frontend Admin 🖥️ :
-  
-  ```
-  npm install
-  npm start
-  ```
 
 #### Start the Native App 📱 :
 
@@ -123,35 +97,6 @@
 </div>
   <br>
   
-  #### Recommendation System | Backend :
-  
-  ```
-  Python
-  - Scikit Learn
-  - Pandas
-  - NLP
-  - Poetry
-  - FastAPI
-  - Uvicorn
-  
-  Database
-  - MySQL
-  
-  Deployment
-  - AWS
-  ```
-  
-  <div>
-   <h3>API Documentation:</h3>
-
-<!--   <a href="https://leap.swarnabha.tech/docs"> https://leap.swarnabha.tech/docs </a><br> -->
-  </div>
-  
-  #### Admin | Frontend
-  
-  ```
-  - React JS
-  ```
   
   #### Server | Backend
   

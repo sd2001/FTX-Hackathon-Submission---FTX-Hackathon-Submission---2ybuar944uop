@@ -1,7 +1,6 @@
 
 
 <div align="center">   
-  <img src="https://img.shields.io/badge/View%20Presentation-Click%20Here-red?link=https://docs.google.com/presentation/d/1rsMEifDNwSmhlun38g34ZYwexozA_gnsypNLxggSTKA/edit?usp=sharing&style=for-the-badge" height=40/> 
   <img src="media/logo.png" />
   <br><br>
   <p align='center'> 

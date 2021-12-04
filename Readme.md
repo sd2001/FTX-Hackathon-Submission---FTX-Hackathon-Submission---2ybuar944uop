@@ -14,31 +14,31 @@
   <p>
   <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
   </p>
-<!--   <img src="media/p_statement.png" /> -->
+  <img src="media/problems.png" />
   <br><br>
  </div>
 
  <div align="center"> 
     <p>
     <img src="https://img.shields.io/badge/Why%20%7C%20What%20it%20does-darkslategrey?logo=Windows%20Terminal&style=for-the-badge" height="55"/></p>
-<!--     <img src="media/approach.png" /> -->
+    <img src="media/solutions.png" />
   <br><br>
  </div>
 
-<div align="center"> 
+<!-- <div align="center"> 
     <p>
     <img src="https://img.shields.io/badge/system%20architecture-moccasin?logo=Databricks&style=for-the-badge" height="55"/></p>
-<!--     <img src="media/Sys_Arch.png" /> -->
+<!--     <img src="media/Sys_Arch.png" /> 
   <br><br>
- </div>
+ </div> -->
 
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/Product%20Images-mediumseagreen?logo=Pinterest&style=for-the-badge" height="55" /><br><br>
   <p float="left">
-<!--     <img src="media/login.jpeg" width="220" />
-    <img src="media/app-dash.png" width="220" /> 
-    <img src="media/qp.png" width="220" /> -->
+    <img src="media/landing.jpeg" width="220" />
+    <img src="media/details.jpeg" width="220" /> 
+    <img src="media/chat.jpeg" width="220" />
   </p><br>
 </div>
 <br>
@@ -74,6 +74,8 @@
  ```
 
 
+  
+
 #### Start the Backend Server 🗃 :
 
   ```
@@ -81,6 +83,7 @@
   npm install -g nodemon
   nodemon app
   ```
+
 
 
 #### Start the Native App 📱 :
@@ -97,6 +100,35 @@
 </div>
   <br>
   
+  #### Recommendation System | Backend :
+  
+  ```
+  Python
+  - Scikit Learn
+  - Pandas
+  - NLP
+  - Poetry
+  - FastAPI
+  - Uvicorn
+  
+  Database
+  - MySQL
+  
+  Deployment
+  - AWS
+  ```
+  
+  <div>
+   <h3>API Documentation:</h3>
+
+<!--   <a href="https://leap.swarnabha.tech/docs"> https://leap.swarnabha.tech/docs </a><br> -->
+  </div>
+  
+  #### Admin | Frontend
+  
+  ```
+  - React JS
+  ```
   
   #### Server | Backend
   

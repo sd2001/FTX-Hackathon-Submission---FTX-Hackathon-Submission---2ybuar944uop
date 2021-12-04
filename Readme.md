@@ -1,4 +1,7 @@
-<div align="center"> 
+
+
+<div align="center">   
+  <img src="https://img.shields.io/badge/View%20Presentation-Click%20Here-red?link=https://docs.google.com/presentation/d/1rsMEifDNwSmhlun38g34ZYwexozA_gnsypNLxggSTKA/edit?usp=sharing&style=for-the-badge" height=40/> 
   <img src="media/logo.png" />
   <br><br>
   <p align='center'> 
@@ -7,9 +10,9 @@
    <img src="https://img.shields.io/badge/By-Keyboard%20Cavalry-lemonchiffon?style=for-the-badge" /><br>
    <img src="https://img.shields.io/badge/For%20razorpay-FTX%20hackathon-CornflowerBlue?style=for-the-badge" />
     <br>
-   <!-- <img src="https://img.shields.io/badge/License-MIT-yellow.svg?logo=Microsoft%20Word&style=for-the-badge" /><br> -->
+   
   </p>
- 
+
   <br><br>
   <p>
   <img src="https://img.shields.io/badge/Problem%20statement-lavenderblush?logo=Product%20Hunt&style=for-the-badge" height="55"/>
